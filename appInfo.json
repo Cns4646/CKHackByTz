@@ -5,7 +5,7 @@
     "update_dl_link": ""
   },
   "maintenance": {
-    "maintenance": true,
+    "maintenance": false,
     "maintenance_message": "ပိတ်ထားတယ်"
   }
 }
