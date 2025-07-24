@@ -1,11 +1,11 @@
 {
   "update_data": {
-    "update_version": 1.0,
+    "update_version": 1.1,
     "update_message": "စမ်းသပ်နေဆဲ",
     "update_dl_link": ""
   },
   "maintenance": {
-    "maintenance": false,
+    "maintenance": true,
     "maintenance_message": "ပိတ်ထားတယ်"
   }
 }
