@@ -1,11 +1,11 @@
 {
   "update_data": {
-    "update_version": 1.1,
-    "update_message": "ဘာမှမပါဘူး",
-    "update_dl_link": "https://t.me/tzhfreemoney/665905"
+    "update_version": 1.2,
+    "update_message": "လောလောဆယ် စမ်းနေတုန်းမို့ link အမှန်မဟုတ်သေးပါ ခင်ဗျာ",
+    "update_dl_link": "https://t.me/tzhfreemoney"
   },
   "maintenance": {
-    "maintenance": true,
+    "maintenance": false,
     "maintenance_message": "ခဏနေ 1.2 updateလေး လာမှာမို့ ပိတ်ထားပါတယ်ဗျ ပြင်စရာလေးရှိလို့ပါ"
   }
 }
