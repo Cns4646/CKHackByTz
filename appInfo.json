@@ -5,7 +5,7 @@
     "update_dl_link": "https://t.me/tzhfreemoney/665905"
   },
   "maintenance": {
-    "maintenance": false,
-    "maintenance_message": "ဒီနေ့1.2 updateလေး လာမှာမို့ ပိတ်ထားပါတယ်ဗျ ပြင်စရာလေးရှိလို့ပါ"
+    "maintenance": true,
+    "maintenance_message": "ခဏနေ 1.2 updateလေး လာမှာမို့ ပိတ်ထားပါတယ်ဗျ ပြင်စရာလေးရှိလို့ပါ"
   }
 }
